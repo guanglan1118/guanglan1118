@@ -1,5 +1,5 @@
 ## Hi there 👋
-**I am currently transition to computational biology and machine learning**
+I am currently transitioning into **computational biology and machine learning**, building on my background in medical sciences and precision medicine.  
 
 ## Education
 - **Doctor of Philosophy (PhD) in Medical Sciences**  
@@ -11,11 +11,10 @@
 - **Bachelor of Science (BSc) in Biological Sciences**  
   *Fujian Agriculture and Forestry University*  
 
-
-### 📎 Homepages
-- Personal Pages: https://guanglan1118.github.io 
-- Linkedin: [https://www.linkedin.com/in/guanglan-lin-4a4440374/](https://www.linkedin.com/in/guanglan-lin-4a4440374/)
-- Google Scholar: [https://scholar.google.com/citations?user=4FA6C0AAAAAJ](https://scholar.google.com/citations?hl=en&user=sYvG_qQAAAAJ)
+## 📎 Homepages
+- 🌐 [Personal Page](https://guanglan1118.github.io)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/guanglan-lin-4a4440374/)  
+- 📖 [Google Scholar](https://scholar.google.com/citations?hl=en&user=sYvG_qQAAAAJ)  
 
 ### 🔥 News
 - *2024.03*: 🎉 Two papers are accepted by ICLR 2024
