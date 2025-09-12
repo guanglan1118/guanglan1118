@@ -3,7 +3,14 @@
 I am currently conducting research in pharmacogenomics.  
 If you are interested in academic collaboration, please feel free to reach out via email: **guanglanlin@gmail.com**.  
 
-I hold a **Bachelor’s degree in Biological Sciences** from *Fujian Agriculture and Forestry University*, and a **Master’s degree in Precision Medicine and Healthcare** from *Tsinghua Shenzhen International Graduate School, Tsinghua University*. I am now pursuing my **PhD in Medical Sciences** at *The Chinese University of Hong Kong*.
+- **Bachelor of Science in Biological Sciences**  
+  *Fujian Agriculture and Forestry University*  
+
+- **Master of Science in Precision Medicine and Healthcare**  
+  *Tsinghua Shenzhen International Graduate School, Tsinghua University*  
+
+- **Doctor of Philosophy in Medical Sciences**  
+  *The Chinese University of Hong Kong*  
 
 
 ## Hi there 👋
