@@ -1,8 +1,16 @@
 ## Hi there 👋
-I am currently transition to computational biology and machine learning. 
+**I am currently transition to computational biology and machine learning**
 
-### Education
-I earned my **Doctor of Philosophy (PhD) in Medical Sciences** from *The Chinese University of Hong Kong*.  Prior to that, I completed a **Master of Science (MSc) in Precision Medicine and Healthcare** at *Tsinghua Shenzhen International Graduate School, Tsinghua University*. I began my academic journey with a **Bachelor of Science (BSc) in Biological Sciences** from *Fujian Agriculture and Forestry University*.  
+## Education
+- **Doctor of Philosophy (PhD) in Medical Sciences**  
+  *The Chinese University of Hong Kong*  
+
+- **Master of Science (MSc) in Precision Medicine and Healthcare**  
+  *Tsinghua Shenzhen International Graduate School, Tsinghua University*  
+
+- **Bachelor of Science (BSc) in Biological Sciences**  
+  *Fujian Agriculture and Forestry University*  
+
 
 ### 📎 Homepages
 - Personal Pages: https://guanglan1118.github.io 
