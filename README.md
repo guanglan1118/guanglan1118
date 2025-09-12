@@ -28,9 +28,9 @@ My research interest includes speech synthesis, neural machine translation and a
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
 
 ### 📎 Homepages
-- Personal Pages: https://rayeren.github.io (updated recently🔥)
+- Personal Pages: https://guanglan1118.github.io 
 - Linkedin: https://www.linkedin.com/in/rayeren
-- Google Scholar: https://scholar.google.com/citations?user=4FA6C0AAAAAJ
+- Google Scholar: [https://scholar.google.com/citations?user=4FA6C0AAAAAJ](https://scholar.google.com/citations?hl=en&user=sYvG_qQAAAAJ)
 - DBLP: https://dblp.org/pid/75/6568-6.html
 
 ### 🔥 News
