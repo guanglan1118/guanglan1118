@@ -3,6 +3,7 @@
 I am currently conducting research in pharmacogenomics.  
 If you are interested in academic collaboration, please feel free to reach out via email: **guanglanlin@gmail.com**.  
 
+### Education 
 - **Bachelor of Science in Biological Sciences**  
   *Fujian Agriculture and Forestry University*  
 
