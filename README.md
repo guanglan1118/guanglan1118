@@ -3,15 +3,16 @@
 I am currently conducting research in pharmacogenomics.  
 If you are interested in academic collaboration, please feel free to reach out via email: **guanglanlin@gmail.com**.  
 
-### Education 
-- **Bachelor of Science in Biological Sciences**  
-  *Fujian Agriculture and Forestry University*  
+### Education  
 
-- **Master of Science in Precision Medicine and Healthcare**  
+- **Doctor of Philosophy (PhD) in Medical Sciences**  
+  *The Chinese University of Hong Kong*  
+
+- **Master of Science (MSc) in Precision Medicine and Healthcare**  
   *Tsinghua Shenzhen International Graduate School, Tsinghua University*  
 
-- **Doctor of Philosophy in Medical Sciences**  
-  *The Chinese University of Hong Kong*  
+- **Bachelor of Science (BSc) in Biological Sciences**  
+  *Fujian Agriculture and Forestry University*  
 
 
 ## Hi there 👋
