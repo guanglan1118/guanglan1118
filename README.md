@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am a **computational cancer genomics and pharmacogenomics researcher** with a background in medical sciences and precision medicine，focuse on **multi-omics data integration**, **RNA-seq/WES/WGS analysis**, and **drug response profiling** to support precision oncology research.
+<p align="justify">
+I am a <strong>computational cancer genomics and pharmacogenomics researcher</strong> with a background in medical sciences and precision medicine, focusing on <strong>multi-omics data integration</strong>, <strong>RNA-seq/WES/WGS analysis</strong>, and <strong>drug response profiling</strong> to support precision oncology research.
+</p>
 
 ---
 
